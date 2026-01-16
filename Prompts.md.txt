@@ -1,0 +1,7 @@
+1-How to create a responsive(Laptop and Mobile) website ?
+
+2-Give a color code in CSS.
+
+3-How to apply transform property in any div ?
+
+4-How to use grid and flex property ?
